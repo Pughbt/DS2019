@@ -1,0 +1,7 @@
+-
+   group: ""
+   elements:
+     - {name: "MSB", description: "UMass-Lowell, Manning School of Business", link: "https://www.uml.edu/MSB/", image.url: "MSB.jpg", width: "150px"}
+     - {name: "TCB", description: "The University of Iowa, Tippie College of Business", link: "https://tippie.uiowa.edu/", image.url: "TCB.jpg", width: "150px"}
+     - {name: "UD", description: "The University of Delaware", link: "https://www.udel.edu/", image.url: "UD.jpg", width: "150px"}
+     - {name: "MUMA", descriptions: "MUMA College of Business, University of South Florida", link: "https://www.usf.edu/business/", image.url: "MUMA.jpg", width: "150px"}
