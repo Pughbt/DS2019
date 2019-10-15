@@ -1,0 +1,136 @@
+-
+  id: 0 
+  name: "Olivia"
+  surname: "Sheng"
+  affiliations: "University of Utah"
+  title: "Honorary Chair"
+  thumbnailURL: Sheng.jpg
+  honorarychair: true
+-  
+-
+  id: 1 
+  name: "Alexander S."
+  surname: "Tuzhilin"
+  affiliations: "New York University"
+  title: "Honorary Chair"
+  thumbnailURL: Tuzhilin.jpg
+  honorarychair: true
+-  
+-
+  id: 2
+  name: "Xiaobai (Bob)"
+  surname: "Li"
+  affiliations: "University of Massachusetts Lowell"
+  title: "Conference Chair"
+  thumbnailURL: Li.jpg
+  conferencechair: true
+-  
+-
+  id: 3
+  name: "Balaji"
+  surname: "Padmanabhan"
+  affiliations: "University of South Florida"
+  title: "Conference Chair"
+  thumbnailURL: Padmanabhan.jpg
+  conferencechair: true
+-  
+-
+-
+  id: 4
+  name: "Yong"
+  surname: "Tan"
+  affiliations: "University of Washington"
+  title: "Conference Chair"
+  thumbnailURL: Tan.jpg
+  conferencechair: true
+-  
+-
+  id: 5 
+  name: "Zhepeng"
+  surname: "Li"
+  affiliations: "York University" 
+  title: "Program Chair"
+  thumbnailURL: Li2.jpg
+  programchair: true
+-  
+-
+  id: 6
+  name: "Nachhiketa"
+  surname: "Sahoo"
+  affiliations: "Boston University"
+  title: "Program Chair"
+  thumbnailURL: Sahoo.jpg
+  programchair: true
+-  
+-
+  id: 7
+  name: "Kang"
+  surname: "Zhao"
+  affiliations: "University of Iowa"
+  title: "Program Chair"
+  thumbnailURL: Zhao.jpg
+  programchair: true
+-  
+-
+  id: 8 
+  name: "Shawn"
+  surname: "Mankad"
+  affiliations: "Cornell University"
+  title: "Publicity Chair"
+  thumbnailURL: Mankand.jpg
+  publicitychair: true
+-  
+-
+  id: 9 
+  name: "Dirk"
+  surname: "Neumann"
+  affiliations: "University of Freiburg"
+  title: "Publicity Chair"
+  thumbnailURL: Neumann.jpg
+  publicitychair: true
+-  
+-
+  id: 10
+  name: "Paul"
+  surname: "Pavlou"
+  affiliations: "Temple University"
+  title: "Publicity Chair"
+  thumbnailURL: Pavlou.jpg
+  publicitychair: true
+-  
+-
+  id: 11 
+  name: "Junjie"
+  surname: "Wu"
+  affiliations: "Beihang University" 
+  title: "Publicity Chair"
+  thumbnailURL: Wu.jpg
+  publicitychair: true 
+-  
+-
+  id: 12 
+  name: "Qiang"
+  surname: "Ye"
+  affiliations: "Harbin Institute of Technology" 
+  title: "Publicity Chair"
+  thumbnailURL: Ye.jpg
+  publicitychair: true
+-  
+-
+  id: 13
+  name: "Leon"
+  surname: "Zhao"
+  affiliations: "City University of Hong Kong"
+  title: "Publicity Chair"
+  thumbnailURL: Zhao2.jpg
+  publicitychair: true
+-  
+-
+  id: 14 
+  name: "Alan"
+  surname: "Wang"
+  affiliations: "Virginia Tech"
+  title: "Finance Chair"
+  thumbnailURL: Wang.jpg
+  financechair: true
+-  
