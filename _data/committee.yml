@@ -1,0 +1,462 @@
+-
+  id: 0
+  name: "Ahmed"
+  surname: "Abbasi"
+  affiliation: "University of Virgina"
+-  
+-
+  id: 1
+  name: "Alan" 
+  surname: "Abrahams"
+  affiliation: "Virginia Tech"
+-  
+-
+  id: 2
+  name: "Bart" 
+  surname: "Baesens"
+  affiliation: "KU Leuven, Belgium"
+-  
+-
+  id: 3
+  name: "Xue" 
+  surname: "Bai"
+  affiliation: "Temple University"
+-  
+-
+  id: 4
+  name: "Konstantin" 
+  surname: "Bauman"
+  affiliation: "Temple University"
+-  
+-
+  id: 5
+  name: "Victor" 
+  surname: "Benjamin"
+  affiliation: "Arizona State University"
+-  
+-
+  id: 6
+  name: "Siddhartha" 
+  surname: "Bhattacharyya"
+  affiliation: "University of Illinois at Chicago"
+-  
+-
+  id: 7
+  name: "Xi" 
+  surname: "Chen"
+  affiliation: "Zhejiang University"
+-  
+-
+  id: 8
+  name: "Amit" 
+  surname: "Deokar"
+  affiliation: "University of Massachusetts Lowell"
+-  
+-
+  id: 9
+  name: "Kaushik" 
+  surname: "Dutta"
+  affiliation: "University of South Florida"
+-  
+-
+  id: 10
+  name: "Weiguo (Patrick)"
+  surname: "Fan"
+  affiliation: "University of Iowa"
+-  
+-
+  id: 11
+  name: "Xiao" 
+  surname: "Fang"
+  affiliation: "University of Delaware"
+-  
+-
+  id: 12
+  name: "Stefan" 
+  surname: "Feuerriegel"
+  affiliation: "ETH Zurich"
+-  
+-
+  id: 13
+  name: "Yong"
+  surname: "Ge"
+  affiliation: "University of Arizona"
+-
+-
+  id: 14
+  name: "Tomer"  
+  surname: "Geva"
+  affiliation: "Tel Aviv University"
+-  
+-
+  id: 15
+  name: "Yael"
+  surname: "Grushka-Cockayne"
+  affiliation: "University of Virginia"
+-  
+-
+  id: 16
+  name: "Yuheng"
+  surname: "Hu"
+  affiliation: "University of Illinois at Chicago"
+-  
+-
+  id: 17
+  name: "Paul J."
+  surname: "Hu"
+  affiliation: "University of Utah"
+-  
+-
+  id: 18
+  name: "Zhengrui"
+  surname: "Jiang"
+  affiliation: "Iowa State University"
+-  
+-
+  id: 19
+  name: "Iljoo"
+  surname: "Kim"
+  affiliation: "Saint Joseph's University"
+-  
+-
+  id: 20
+  name: "Brent"  
+  surname: "Kitchens"
+  affiliation: "University of Virignia"
+-  
+-
+  id: 21
+  name: "Michael"
+  surname: "Lash"
+  affiliation: "University of Kansas"
+-  
+-
+  id: 22
+  name: "Weifeng"
+  surname: "Li"
+  affiliation: "University of Georgia"
+-  
+-
+  id: 23
+  name: "Xiaobai"
+  surname: "Li"
+  affiliation: "University of Massachusetts Lowell"
+-  
+-
+  id: 24
+  name: "Jingjing"
+  surname: "Li"
+  affiliation: "University of Virginia"
+-  
+-
+  id: 25
+  name: "Ting"
+  surname: "Li"
+  affiliation: "University Rotterdam"
+-  
+-
+  id: 26
+  name: "Zhepeng (Lionel)" 
+  surname: "Li"
+  affiliation: "York University"
+-  
+-
+  id: 27
+  name: "Qihang" 
+  surname: "Lin"
+  affiliation: "University of Iowa"
+-  
+-
+  id: 28
+  name: "Chuanren"
+  surname: "Liu"
+  affiliation: "Drexel University"
+-  
+-
+  id: 29
+  name: "Bin"
+  surname: "Liu"
+  affiliation: "IBM T.J. Watson Research Center"
+-  
+-
+  id: 30
+  name: "Xiao"
+  surname: "Liu"
+  affiliation: "University of Utah"
+-  
+-
+  id: 31
+  name: "Hongyan"
+  surname: "Liu"
+  affiliation: "Tsinghua University"
+-  
+-
+  id: 32
+  name: "Haibing"
+  surname: "Lu"
+  affiliation: "Santa Clara University"
+-  
+-
+  id: 33
+  name: "Shawn"
+  surname: "Mankand"
+  affiliation: "Cornell University"
+-  
+-
+  id: 34
+  name: "Edward"
+  surname: "McFowland III"
+  affiliation: "University of Minnesota"
+-  
+-
+  id: 35
+  name: "Mohammad Amin"
+  surname: "Morid"
+  affiliation: "Santa Clara University"
+-  
+-
+  id: 36
+  name: "Balaji"
+  surname: "Padmanabhan"
+  affiliation: "University of South Florida"
+-  
+-
+  id: 37
+  name: "Praveen"
+  surname: "Pathak"
+  affiliation: "University of Florida"
+-  
+-
+  id: 38
+  name: "Bill"
+  surname: "Rand"
+  affiliation: "North Carolina State University"
+-  
+-
+  id: 39
+  name: "Maytal"
+  surname: "Saar-Tsechansky"
+  affiliation: "University of Texas,Austin"
+-  
+-
+  id: 40
+  name: "Nachiketa"
+  surname: "Sahoo"
+  affiliation: "Boston University"
+-  
+-
+  id: 41
+  name: "Sagar"
+  surname: "Samtani"
+  affiliation: "University of South Florida"
+-  
+-
+  id: 42
+  name: "Raghu"
+  surname: "Santanam"
+  affiliation: "Arizona State University"
+-  
+-
+  id: 43
+  name: "Michelle"
+  surname: "Seref"
+  affiliation: "Virginia Tech"
+-  
+-
+  id: 44
+  name: "Zhe"
+  surname: "Shan"
+  affiliation: "University of Cincinnati"
+-  
+-
+  id: 45
+  name: "Sriram"
+  surname: "Somanchi"
+  affiliation: "University of Notre Dame"
+-  
+-
+  id: 46
+  name: "Srikar"
+  surname: "Velichety"
+  affiliation: "University of Memphis"
+-  
+-
+  id: 47
+  name: "Jing"
+  surname: "Wang"
+  affiliation: "Hong Kong University of Science and Technology"
+-  
+-
+  id: 48
+  name: "Harry"
+  surname: "Wang"
+  affiliation: "University of Delaware"
+-  
+-
+  id: 49
+  name: "Qingchen"
+  surname: "Wang"
+  affiliation: "University of Hong Kong"
+-  
+-
+  id: 50
+  name: "Alan"
+  surname: "Wang"
+  affiliation: "Virginia Tech"
+-  
+-
+  id: 51
+  name: "Junjie"
+  surname: "Wu"
+  affiliation: "Beihang University"
+-  
+-
+  id: 52
+  name: "Keli"
+  surname: "Xiao"
+  affiliation: "Stony Brook University"
+-  
+-
+  id: 53
+  name: "Hui"
+  surname: "Xiong"
+  affiliation: "Rutgers University"
+-  
+-
+  id: 54
+  name: "Inbal"
+  surname: "Yahav"
+  affiliation: "Bar Ilan University"
+-  
+-
+  id: 55
+  name: "Zhijun"
+  surname: "Yan"
+  affiliation: "Beijing Institute of Technology"
+-  
+-
+  id: 56
+  name: "Xiangbin"
+  surname: "Yan"
+  affiliation: "University of Science and Technology"
+-  
+-
+  id: 57
+  name: "Yi"
+  surname: "Yang"
+  affiliation: "Hong Kong University of Science and Technology"
+-  
+-
+  id: 58
+  name: "Yinghui"
+  surname: "Yang"
+  affiliation: "University of California,Davis"
+-  
+-
+  id: 59
+  name: "Junming"
+  surname: "Yin"
+  affiliation: "University of Arizona"
+-  
+-
+  id: 60
+  name: "John"
+  surname: "Zhang"
+  affiliation: "Arizona State University"
+-  
+-
+  id: 61
+  name: "Qingpeng"
+  surname: "Zhang"
+  affiliation: "City University of Hong Kong"
+-  
+-
+  id: 62
+  name: "Jingjing" 
+  surname: "Zhang"
+  affiliation: "Indiana University"
+-  
+-
+  id: 63
+  name: "Zhu"
+  surname: "Zhang"
+  affiliation: "Iowa State University"
+-  
+-
+  id: 64
+  name: "Xi"
+  surname: "Zhang"
+  affiliation: "Tianjin University"
+-  
+-
+  id: 65
+  name: "Bin"
+  surname: "Zhang"
+  affiliation: "University of Arizona"
+-  
+-
+  id: 66
+  name: "Kunpeng"
+  surname: "Zhang"
+  affiliation: "University of Maryland"
+-  
+-
+  id: 67
+  name: "Juheng"
+  surname: "Zhang"
+  affiliation: "University of Massachusetts Lowell"
+-  
+-
+  id: 68
+  name: "Kang"
+  surname: "Zhao"
+  affiliation: "University of Iowa"
+-  
+-
+  id: 69
+  name: "Huimin"
+  surname: "Zhao"
+  affiliation: "University of Wisconsin, Milwaukee"
+-  
+-
+  id: 70
+  name: "Zhiqiag (Eric)"
+  surname: "Zheng"
+  affiliation: "University of Texas,Dallas"
+-  
+-
+  id: 71
+  name: "Yilu"
+  surname: "Zhou"
+  affiliation: "Fordham University"
+-  
+-
+  id: 72
+  name: "Wenjun"
+  surname: "Zhou"
+  affiliation: "The University of Tennessee,Knoxville"
+-  
+-
+  id: 73
+  name: "Xun"
+  surname: "Zhou"
+  affiliation: "University of Iowa"
+-  
+-
+  id: 74
+  name: "Lina"
+  surname: "Zhou"
+  affiliation: "University of Maryland"
+-  
+-
+  id: 75
+  name: "David"
+  surname: "Zimbra"
+  affiliation: "Santa Clara University"
+-  
+-
+  id: 76
+  name: "Zhiya"
+  surname: "Zuo"
+  affiliation: "City University of Hong Kong"
+-  
